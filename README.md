@@ -1,20 +1,20 @@
-<h1 style="color: red;">#Pamagram-PWA</h2>
+<h1 style="color:red;">#Pamagram-PWA</h2>
 
-Olá, caro leitor.
+<p>Olá, caro leitor.</p>
 
-Este projeto trata-se de uma PWA (Progressive Web App)
-Desenvolvida com Ionic 3 (Cordova) integrada ao Firebase.
+<p>Este projeto trata-se de uma <strong>PWA</strong> (Progressive Web App)</p>
+<p>Desenvolvida com Ionic 3 (Cordova) integrada ao Firebase.</p>
 
-A ideia do aplicativo é baseado no Instagram e este é apenas um projeto para estudos.
-Sinta-se livre para baixar e alterar o fonte.
+<p>A ideia do aplicativo é baseado no Instagram e este é apenas um projeto para estudos.</p>
+<p>Sinta-se livre para baixar e alterar o fonte.</p>
 
-Espero que o conteúdo possa lhe ajudar.
+<p>Espero que o conteúdo possa lhe ajudar.</p>
 
-Abaixo segue meus contatos:
+<p>Abaixo segue meus contatos:</p>
 <ul>
-  <li>E-mail: pauloroberto.prrl@gmail.com</li>
-  <li>LinkedIn: https://www.linkedin.com/in/paulorrldev/</li>
-  <li>Facebook: https://www.facebook.com/paulorodriguesprrl</li>
+  <li><strong>E-mail:</strong> pauloroberto.prrl@gmail.com</li>
+  <li><strong>LinkedIn:</strong> https://www.linkedin.com/in/paulorrldev/</li>
+  <li><strong>Facebook:</strong> https://www.facebook.com/paulorodriguesprrl</li>
 </ul>
 
-Até a próxima! ;)
+<p>Até a próxima! ;)</p>
