@@ -5,8 +5,8 @@
 <p>Este projeto trata-se de uma <strong>PWA</strong> (Progressive Web App)</p>
 <p>Desenvolvida com Ionic 3 (Cordova) integrada ao Firebase.</p>
 
-<p>A ideia do aplicativo é baseado no Instagram e este é apenas um projeto para estudos.</p>
-<p>Sinta-se livre para baixar e alterar o fonte.</p>
+<p>A ideia do aplicativo é baseado no Instagram e este é apenas um projeto para estudos.<br>
+Sinta-se livre para baixar e alterar o fonte.</p>
 
 <p>Espero que o conteúdo possa lhe ajudar.</p>
 
