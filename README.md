@@ -11,8 +11,10 @@ Sinta-se livre para baixar e alterar o fonte.
 Espero que o conteúdo possa lhe ajudar.
 
 Abaixo segue meus contatos:
-E-mail: pauloroberto.prrl@gmail.com
-LinkedIn: https://www.linkedin.com/in/paulorrldev/
-Facebook: https://www.facebook.com/paulorodriguesprrl
+<ul>
+  <li>E-mail: pauloroberto.prrl@gmail.com</li>
+  <li>LinkedIn: https://www.linkedin.com/in/paulorrldev/</li>
+  <li>Facebook: https://www.facebook.com/paulorodriguesprrl</li>
+</ul>
 
 Até a próxima! ;)
