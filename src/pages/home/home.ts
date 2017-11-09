@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
-import { NavController } from 'ionic-angular';
+import { NavController, ModalController } from 'ionic-angular';
+
+import { PhotosPage } from '../photos/photos';
+import { TakePicturePage } from '../take-picture/take-picture';
 
 @Component({
   selector: 'page-home',
@@ -7,8 +10,16 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  constructor(public navCtrl: NavController) {
+  public photosTab: any;
+  public profileTab: any;
 
+  constructor(private navCtrl: NavController, private modalCtrl: ModalController) {
+    this.photosTab = PhotosPage;
+    this.profileTab = PhotosPage;
   }
 
+  showSendPhotos() {
+    this.modalCtrl.create(TakePicturePage)
+        .present();
+  }
 }
